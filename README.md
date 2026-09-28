@@ -1,16 +1,15 @@
-# OneClickGoogleDriveDownloader
+# OneClick Google Colab Tools
 
-Download files directly to your Google Drive using Google Colab.
+Simple tools designed to run directly in Google Colab.
 
 ## 🚀 Features
-- Direct download to Google Drive
-- Runs on Google Colab
-- Simple and fast setup
-- No local storage required
+- One-click Colab tools
+- Download files directly to Google Drive
+- No local setup required
+- Easy to use
+- Fast and lightweight
 
 ## ▶️ Usage
-1. Open the Colab notebook.
-2. Run the code and authenticate Google Drive.
-3. Enter the file URL.
-4. Choose the Drive location.
-5. Run the download and you're done!
+Open the desired tool in Google Colab, run the cells, and follow the instructions.
+
+Made for easy, one-click workflows in Google Colab.
